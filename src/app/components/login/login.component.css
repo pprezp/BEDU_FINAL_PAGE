@@ -1,0 +1,16 @@
+.login-main{
+    margin-top: 10%;
+    }
+    mat-card{
+    min-width: 40%;
+    }
+
+mat-card{
+    background: transparent;
+    border: 1px solid #66646461;
+    box-shadow: 5px 5px 5px #666464;
+}
+
+.paddingElement{
+    padding: 25px;
+}
